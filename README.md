@@ -1,2 +1,2 @@
 # MovieDB
-An React app similar to YTS
+An React web app similar to YTS
